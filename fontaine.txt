@@ -1,0 +1,224 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Istok Web
+    Sub family: BoldItalic
+    Style: italic
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.0.2g
+    Vendor: Andrey V. Panov
+    Vendor url: http://code.google.com/p/istok
+    Designer: А. В. Панов
+    Designer url: http://code.google.com/u/andrej.panov/
+    Glyph count: 991
+    Character count: 951
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 40
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 25
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 17
+  Font:
+    Common name: Istok Web
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.0.2g
+    Vendor: Andrey V. Panov
+    Vendor url: http://code.google.com/p/istok
+    Designer: А. В. Панов
+    Designer url: http://code.google.com/u/andrej.panov/
+    Glyph count: 1034
+    Character count: 1003
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 41
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 25
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 17
+  Font:
+    Common name: Istok Web
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.0.2g
+    Vendor: Andrey V. Panov
+    Vendor url: http://code.google.com/p/istok
+    Designer: А. В. Панов
+    Designer url: http://code.google.com/u/andrej.panov/
+    Glyph count: 1379
+    Character count: 1333
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 42
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 5
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 25
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 17
+  Font:
+    Common name: Istok Web
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.0.2g
+    Vendor: Andrey V. Panov
+    Vendor url: http://code.google.com/p/istok
+    Designer: А. В. Панов
+    Designer url: http://code.google.com/u/andrej.panov/
+    Glyph count: 991
+    Character count: 951
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 40
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 25
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 17
